@@ -1,0 +1,203 @@
+﻿physician_id,physician_name,gender,specialty,facility_id,seniority,years_experience,board_certified,is_accepting_new_patients
+DOC-0001,Dr. Adel Sabri,Male,Cardiology,FAC-01,Consultant,29,Yes,Yes
+DOC-0002,Dr. Khalid Nasser,Male,Orthopedics,FAC-01,Resident,4,No,Yes
+DOC-0003,Dr. Ziad Mansour,Male,Pediatrics,FAC-01,Consultant,32,Yes,Yes
+DOC-0004,Dr. Ziad Mansour,Male,Obstetrics & Gynecology,FAC-01,Resident,3,No,Yes
+DOC-0005,Dr. Khalid Nasser,Male,General Surgery,FAC-01,Consultant,13,Yes,Yes
+DOC-0006,Dr. Adel Sabri,Male,Internal Medicine,FAC-01,Resident,2,No,Yes
+DOC-0007,Dr. Tariq Salim,Male,Emergency Medicine,FAC-01,Specialist,12,Yes,Yes
+DOC-0008,Dr. Yara Nasser,Female,Dermatology,FAC-01,Resident,4,Yes,Yes
+DOC-0009,Dr. Rami Khoury,Male,Ophthalmology,FAC-01,Specialist,14,Yes,Yes
+DOC-0010,Dr. Nadia Barakat,Female,Otolaryngology (ENT),FAC-01,Consultant,29,Yes,Yes
+DOC-0011,Dr. Rami Khoury,Male,Neurology,FAC-01,Specialist,14,Yes,Yes
+DOC-0012,Dr. Nadia Barakat,Female,Oncology,FAC-01,Specialist,15,Yes,Yes
+DOC-0013,Dr. Mariam Aziz,Female,Radiology,FAC-01,Consultant,23,Yes,No
+DOC-0014,Dr. Omar Haddad,Male,Psychiatry,FAC-01,Resident,2,No,Yes
+DOC-0015,Dr. Yara Nasser,Female,Cardiology,FAC-01,Resident,5,Yes,Yes
+DOC-0016,Dr. Salma Fares,Female,Orthopedics,FAC-01,Consultant,26,Yes,Yes
+DOC-0017,Dr. Yousef Barakat,Male,Pediatrics,FAC-01,Consultant,12,Yes,Yes
+DOC-0018,Dr. Hassan Fadel,Male,Obstetrics & Gynecology,FAC-01,Resident,2,Yes,Yes
+DOC-0019,Dr. Yousef Barakat,Male,General Surgery,FAC-01,Specialist,14,Yes,Yes
+DOC-0020,Dr. Adel Sabri,Male,Internal Medicine,FAC-01,Consultant,26,Yes,Yes
+DOC-0021,Dr. Ziad Mansour,Male,Cardiology,FAC-02,Specialist,9,Yes,No
+DOC-0022,Dr. Mariam Aziz,Female,Orthopedics,FAC-02,Consultant,31,Yes,No
+DOC-0023,Dr. Omar Haddad,Male,Pediatrics,FAC-02,Specialist,8,Yes,Yes
+DOC-0024,Dr. Khalid Nasser,Male,Obstetrics & Gynecology,FAC-02,Resident,5,No,No
+DOC-0025,Dr. Mariam Aziz,Female,General Surgery,FAC-02,Consultant,28,Yes,Yes
+DOC-0026,Dr. Adel Sabri,Male,Internal Medicine,FAC-02,Resident,5,No,Yes
+DOC-0027,Dr. Adel Sabri,Male,Emergency Medicine,FAC-02,Consultant,19,Yes,Yes
+DOC-0028,Dr. Nadia Barakat,Female,Dermatology,FAC-02,Consultant,28,Yes,Yes
+DOC-0029,Dr. Tariq Salim,Male,Ophthalmology,FAC-02,Specialist,12,Yes,Yes
+DOC-0030,Dr. Hassan Fadel,Male,Otolaryngology (ENT),FAC-02,Consultant,28,Yes,Yes
+DOC-0031,Dr. Tariq Salim,Male,Neurology,FAC-02,Consultant,17,Yes,Yes
+DOC-0032,Dr. Rami Khoury,Male,Oncology,FAC-02,Resident,4,No,Yes
+DOC-0033,Dr. Nadia Barakat,Female,Radiology,FAC-02,Resident,3,No,Yes
+DOC-0034,Dr. Khalid Nasser,Male,Psychiatry,FAC-02,Specialist,7,Yes,Yes
+DOC-0035,Dr. Michael Braun,Male,Cardiology,FAC-03,Specialist,7,Yes,Yes
+DOC-0036,Dr. Thomas Brenner,Male,Orthopedics,FAC-03,Specialist,11,Yes,Yes
+DOC-0037,Dr. Oliver Hastings,Male,Pediatrics,FAC-03,Specialist,13,Yes,Yes
+DOC-0038,Dr. Oliver Hastings,Male,Obstetrics & Gynecology,FAC-03,Consultant,15,Yes,Yes
+DOC-0039,Dr. Michael Braun,Male,General Surgery,FAC-03,Resident,4,No,No
+DOC-0040,Dr. Charlotte Hastings,Female,Internal Medicine,FAC-03,Consultant,19,Yes,Yes
+DOC-0041,Dr. Emma Whitfield,Female,Emergency Medicine,FAC-03,Consultant,13,Yes,No
+DOC-0042,Dr. Stefan Keller,Male,Dermatology,FAC-03,Consultant,32,Yes,Yes
+DOC-0043,Dr. Daniel Ashcroft,Male,Ophthalmology,FAC-03,Resident,5,Yes,Yes
+DOC-0044,Dr. Daniel Ashcroft,Male,Otolaryngology (ENT),FAC-03,Consultant,25,Yes,Yes
+DOC-0045,Dr. Anna Brenner,Female,Neurology,FAC-03,Specialist,10,Yes,Yes
+DOC-0046,Dr. Daniel Ashcroft,Male,Oncology,FAC-03,Specialist,7,Yes,Yes
+DOC-0047,Dr. Julia Braun,Female,Radiology,FAC-03,Specialist,15,Yes,Yes
+DOC-0048,Dr. Stefan Keller,Male,Psychiatry,FAC-03,Specialist,9,Yes,Yes
+DOC-0049,Dr. Michael Braun,Male,Cardiology,FAC-03,Specialist,9,Yes,Yes
+DOC-0050,Dr. Emma Whitfield,Female,Orthopedics,FAC-03,Consultant,23,Yes,Yes
+DOC-0051,Dr. Peter Lindqvist,Male,Pediatrics,FAC-03,Specialist,6,Yes,Yes
+DOC-0052,Dr. Charlotte Hastings,Female,Obstetrics & Gynecology,FAC-03,Consultant,26,Yes,Yes
+DOC-0053,Dr. Sophie Ashcroft,Female,General Surgery,FAC-03,Resident,3,Yes,Yes
+DOC-0054,Dr. Daniel Ashcroft,Male,Internal Medicine,FAC-03,Specialist,15,Yes,Yes
+DOC-0055,Dr. Daniel Ashcroft,Male,Cardiology,FAC-04,Consultant,14,Yes,Yes
+DOC-0056,Dr. Peter Lindqvist,Male,Orthopedics,FAC-04,Specialist,7,Yes,Yes
+DOC-0057,Dr. Michael Braun,Male,Pediatrics,FAC-04,Specialist,11,Yes,Yes
+DOC-0058,Dr. Michael Braun,Male,Obstetrics & Gynecology,FAC-04,Consultant,26,Yes,No
+DOC-0059,Dr. Thomas Brenner,Male,General Surgery,FAC-04,Specialist,14,Yes,Yes
+DOC-0060,Dr. Stefan Keller,Male,Internal Medicine,FAC-04,Consultant,31,Yes,Yes
+DOC-0061,Dr. James Whitfield,Male,Emergency Medicine,FAC-04,Consultant,32,Yes,No
+DOC-0062,Dr. Sophie Ashcroft,Female,Dermatology,FAC-04,Resident,4,No,Yes
+DOC-0063,Dr. Lukas Wagner,Male,Ophthalmology,FAC-04,Resident,2,No,Yes
+DOC-0064,Dr. Stefan Keller,Male,Otolaryngology (ENT),FAC-04,Resident,3,Yes,Yes
+DOC-0065,Dr. Daniel Ashcroft,Male,Neurology,FAC-04,Specialist,10,Yes,Yes
+DOC-0066,Dr. Charlotte Hastings,Female,Oncology,FAC-04,Consultant,21,Yes,Yes
+DOC-0067,Dr. Thomas Brenner,Male,Radiology,FAC-04,Specialist,12,Yes,Yes
+DOC-0068,Dr. Thomas Brenner,Male,Psychiatry,FAC-04,Specialist,6,Yes,Yes
+DOC-0069,Dr. Vikram Desai,Male,Orthopedics,FAC-05,Consultant,14,Yes,No
+DOC-0070,Dr. Vikram Desai,Male,Obstetrics & Gynecology,FAC-05,Resident,1,No,No
+DOC-0071,Dr. Siti Ismail,Female,General Surgery,FAC-05,Specialist,6,Yes,Yes
+DOC-0072,Dr. Hui Yin Lim,Female,Dermatology,FAC-05,Resident,2,No,Yes
+DOC-0073,Dr. Mei Ling Tan,Female,Ophthalmology,FAC-05,Specialist,12,Yes,Yes
+DOC-0074,Dr. Mei Ling Tan,Female,Otolaryngology (ENT),FAC-05,Resident,2,No,Yes
+DOC-0075,Dr. Rahul Menon,Male,Cardiology,FAC-06,Specialist,8,Yes,Yes
+DOC-0076,Dr. Wei Ming Tan,Male,Orthopedics,FAC-06,Resident,3,No,Yes
+DOC-0077,Dr. Priya Nair,Female,Pediatrics,FAC-06,Consultant,29,Yes,Yes
+DOC-0078,Dr. Divya Pillai,Female,Obstetrics & Gynecology,FAC-06,Specialist,8,Yes,Yes
+DOC-0079,Dr. Faizal Rahman,Male,General Surgery,FAC-06,Specialist,9,Yes,Yes
+DOC-0080,Dr. Vikram Desai,Male,Internal Medicine,FAC-06,Resident,1,No,No
+DOC-0081,Dr. Rahul Menon,Male,Emergency Medicine,FAC-06,Consultant,13,Yes,Yes
+DOC-0082,Dr. Divya Pillai,Female,Dermatology,FAC-06,Resident,5,No,Yes
+DOC-0083,Dr. Priya Nair,Female,Ophthalmology,FAC-06,Resident,5,No,Yes
+DOC-0084,Dr. Priya Nair,Female,Otolaryngology (ENT),FAC-06,Resident,5,No,Yes
+DOC-0085,Dr. Vikram Desai,Male,Neurology,FAC-06,Resident,4,No,Yes
+DOC-0086,Dr. Nurul Rahman,Female,Oncology,FAC-06,Specialist,13,Yes,Yes
+DOC-0087,Dr. Jun Wei Lim,Male,Radiology,FAC-06,Specialist,8,Yes,Yes
+DOC-0088,Dr. Sanjay Pillai,Male,Psychiatry,FAC-06,Resident,4,No,Yes
+DOC-0089,Dr. Priya Nair,Female,Cardiology,FAC-06,Specialist,14,Yes,Yes
+DOC-0090,Dr. Arjun Nair,Male,Orthopedics,FAC-06,Consultant,31,Yes,Yes
+DOC-0091,Dr. Nurul Rahman,Female,Pediatrics,FAC-06,Resident,4,No,Yes
+DOC-0092,Dr. Arjun Nair,Male,Obstetrics & Gynecology,FAC-06,Consultant,30,Yes,No
+DOC-0093,Dr. Divya Pillai,Female,General Surgery,FAC-06,Resident,3,No,Yes
+DOC-0094,Dr. Hui Yin Lim,Female,Internal Medicine,FAC-06,Specialist,9,Yes,Yes
+DOC-0095,Dr. Divya Pillai,Female,Cardiology,FAC-07,Specialist,14,Yes,Yes
+DOC-0096,Dr. Mei Ling Tan,Female,Orthopedics,FAC-07,Specialist,6,Yes,Yes
+DOC-0097,Dr. Divya Pillai,Female,Pediatrics,FAC-07,Specialist,8,Yes,Yes
+DOC-0098,Dr. Rahul Menon,Male,Obstetrics & Gynecology,FAC-07,Resident,2,No,Yes
+DOC-0099,Dr. Rahul Menon,Male,General Surgery,FAC-07,Consultant,22,Yes,Yes
+DOC-0100,Dr. Arjun Nair,Male,Internal Medicine,FAC-07,Specialist,16,Yes,Yes
+DOC-0101,Dr. Hafiz Ismail,Male,Emergency Medicine,FAC-07,Consultant,26,Yes,No
+DOC-0102,Dr. Siti Ismail,Female,Dermatology,FAC-07,Resident,5,Yes,Yes
+DOC-0103,Dr. Sanjay Pillai,Male,Ophthalmology,FAC-07,Consultant,17,Yes,Yes
+DOC-0104,Dr. Sanjay Pillai,Male,Otolaryngology (ENT),FAC-07,Specialist,16,Yes,Yes
+DOC-0105,Dr. Hafiz Ismail,Male,Neurology,FAC-07,Resident,4,No,Yes
+DOC-0106,Dr. Faizal Rahman,Male,Oncology,FAC-07,Resident,1,No,Yes
+DOC-0107,Dr. Nurul Rahman,Female,Radiology,FAC-07,Consultant,21,Yes,Yes
+DOC-0108,Dr. Kavya Desai,Female,Psychiatry,FAC-07,Specialist,14,Yes,Yes
+DOC-0109,Dr. Danielle Bennett,Female,Cardiology,FAC-08,Consultant,15,Yes,Yes
+DOC-0110,Dr. Andrew Sullivan,Male,Orthopedics,FAC-08,Consultant,14,Yes,No
+DOC-0111,Dr. Jessica Carter,Female,Pediatrics,FAC-08,Consultant,13,Yes,No
+DOC-0112,Dr. Chloe Rowe,Female,Obstetrics & Gynecology,FAC-08,Specialist,6,Yes,Yes
+DOC-0113,Dr. Michael Carter,Male,General Surgery,FAC-08,Specialist,14,Yes,Yes
+DOC-0114,Dr. Chloe Rowe,Female,Internal Medicine,FAC-08,Specialist,13,Yes,Yes
+DOC-0115,Dr. David Thompson,Male,Emergency Medicine,FAC-08,Consultant,26,Yes,Yes
+DOC-0116,Dr. Rachel Hale,Female,Dermatology,FAC-08,Specialist,14,Yes,Yes
+DOC-0117,Dr. Danielle Bennett,Female,Ophthalmology,FAC-08,Specialist,12,Yes,Yes
+DOC-0118,Dr. Michael Carter,Male,Otolaryngology (ENT),FAC-08,Specialist,13,Yes,Yes
+DOC-0119,Dr. Tyler Rowe,Male,Neurology,FAC-08,Specialist,7,Yes,Yes
+DOC-0120,Dr. Megan Mitchell,Female,Oncology,FAC-08,Specialist,9,Yes,Yes
+DOC-0121,Dr. Andrew Sullivan,Male,Radiology,FAC-08,Resident,1,No,Yes
+DOC-0122,Dr. Jessica Carter,Female,Psychiatry,FAC-08,Consultant,25,Yes,Yes
+DOC-0123,Dr. Michael Carter,Male,Cardiology,FAC-09,Specialist,7,Yes,Yes
+DOC-0124,Dr. Danielle Bennett,Female,Orthopedics,FAC-09,Specialist,14,Yes,Yes
+DOC-0125,Dr. Jessica Carter,Female,Pediatrics,FAC-09,Specialist,14,Yes,Yes
+DOC-0126,Dr. Andrew Sullivan,Male,Obstetrics & Gynecology,FAC-09,Resident,5,No,No
+DOC-0127,Dr. Tyler Rowe,Male,General Surgery,FAC-09,Specialist,10,Yes,Yes
+DOC-0128,Dr. Michael Carter,Male,Internal Medicine,FAC-09,Specialist,11,Yes,Yes
+DOC-0129,Dr. Jessica Carter,Female,Emergency Medicine,FAC-09,Specialist,13,Yes,Yes
+DOC-0130,Dr. Andrew Sullivan,Male,Dermatology,FAC-09,Resident,3,Yes,Yes
+DOC-0131,Dr. Tyler Rowe,Male,Ophthalmology,FAC-09,Specialist,16,Yes,Yes
+DOC-0132,Dr. Rachel Hale,Female,Otolaryngology (ENT),FAC-09,Consultant,30,Yes,Yes
+DOC-0133,Dr. Michael Carter,Male,Neurology,FAC-09,Specialist,8,Yes,Yes
+DOC-0134,Dr. Christopher Hale,Male,Oncology,FAC-09,Specialist,11,Yes,Yes
+DOC-0135,Dr. Michael Carter,Male,Radiology,FAC-09,Specialist,8,Yes,No
+DOC-0136,Dr. Nicole Sullivan,Female,Psychiatry,FAC-09,Specialist,6,Yes,Yes
+DOC-0137,Dr. Tyler Rowe,Male,Cardiology,FAC-09,Resident,3,No,Yes
+DOC-0138,Dr. Jessica Carter,Female,Orthopedics,FAC-09,Consultant,22,Yes,Yes
+DOC-0139,Dr. David Thompson,Male,Pediatrics,FAC-09,Resident,4,No,Yes
+DOC-0140,Dr. Amanda Thompson,Female,Obstetrics & Gynecology,FAC-09,Resident,2,No,Yes
+DOC-0141,Dr. Chloe Rowe,Female,General Surgery,FAC-09,Resident,1,No,Yes
+DOC-0142,Dr. Michael Carter,Male,Internal Medicine,FAC-09,Consultant,24,Yes,Yes
+DOC-0143,Dr. Grace Kimani,Female,Cardiology,FAC-10,Consultant,26,Yes,Yes
+DOC-0144,Dr. Nourhan Ragab,Female,Orthopedics,FAC-10,Specialist,14,Yes,Yes
+DOC-0145,Dr. Peter Otieno,Male,Pediatrics,FAC-10,Specialist,10,Yes,Yes
+DOC-0146,Dr. Mostafa Kamel,Male,Obstetrics & Gynecology,FAC-10,Specialist,14,Yes,Yes
+DOC-0147,Dr. Daniel Mwangi,Male,General Surgery,FAC-10,Specialist,12,Yes,Yes
+DOC-0148,Dr. Wanjiku Mwangi,Female,Internal Medicine,FAC-10,Resident,4,No,Yes
+DOC-0149,Dr. Yasmin Kamel,Female,Emergency Medicine,FAC-10,Specialist,12,Yes,Yes
+DOC-0150,Dr. Wanjiku Mwangi,Female,Dermatology,FAC-10,Consultant,14,Yes,Yes
+DOC-0151,Dr. Brian Wanjiru,Male,Ophthalmology,FAC-10,Specialist,12,Yes,Yes
+DOC-0152,Dr. Wanjiku Mwangi,Female,Otolaryngology (ENT),FAC-10,Consultant,31,Yes,Yes
+DOC-0153,Dr. Ahmed Fouad,Male,Neurology,FAC-10,Consultant,27,Yes,Yes
+DOC-0154,Dr. Samir Naguib,Male,Oncology,FAC-10,Specialist,6,Yes,Yes
+DOC-0155,Dr. Wanjiku Mwangi,Female,Radiology,FAC-10,Specialist,8,Yes,No
+DOC-0156,Dr. Samir Naguib,Male,Psychiatry,FAC-10,Resident,1,No,Yes
+DOC-0157,Dr. Nourhan Ragab,Female,Cardiology,FAC-11,Specialist,9,Yes,Yes
+DOC-0158,Dr. Esther Kariuki,Female,Orthopedics,FAC-11,Resident,3,No,No
+DOC-0159,Dr. Hesham Ragab,Male,Pediatrics,FAC-11,Resident,5,No,Yes
+DOC-0160,Dr. Peter Otieno,Male,Obstetrics & Gynecology,FAC-11,Specialist,15,Yes,No
+DOC-0161,Dr. Esther Kariuki,Female,General Surgery,FAC-11,Consultant,27,Yes,No
+DOC-0162,Dr. Peter Otieno,Male,Internal Medicine,FAC-11,Resident,3,No,Yes
+DOC-0163,Dr. Grace Kimani,Female,Emergency Medicine,FAC-11,Consultant,12,Yes,Yes
+DOC-0164,Dr. Grace Kimani,Female,Dermatology,FAC-11,Specialist,14,Yes,Yes
+DOC-0165,Dr. Daniel Mwangi,Male,Ophthalmology,FAC-11,Resident,2,Yes,Yes
+DOC-0166,Dr. Peter Otieno,Male,Otolaryngology (ENT),FAC-11,Resident,1,Yes,Yes
+DOC-0167,Dr. Wanjiku Mwangi,Female,Neurology,FAC-11,Specialist,10,Yes,Yes
+DOC-0168,Dr. Amira Naguib,Female,Oncology,FAC-11,Consultant,14,Yes,Yes
+DOC-0169,Dr. Samir Naguib,Male,Radiology,FAC-11,Specialist,14,Yes,Yes
+DOC-0170,Dr. Peter Otieno,Male,Psychiatry,FAC-11,Specialist,12,Yes,Yes
+DOC-0171,Dr. Bruno Almeida,Male,Cardiology,FAC-12,Consultant,17,Yes,Yes
+DOC-0172,Dr. Gustavo Pinto,Male,Orthopedics,FAC-12,Resident,3,No,No
+DOC-0173,Dr. Carolina Moreira,Female,Pediatrics,FAC-12,Specialist,9,Yes,No
+DOC-0174,Dr. Carolina Moreira,Female,Obstetrics & Gynecology,FAC-12,Specialist,9,Yes,Yes
+DOC-0175,Dr. Renata Pinto,Female,General Surgery,FAC-12,Specialist,16,Yes,Yes
+DOC-0176,Dr. Fernanda Barros,Female,Internal Medicine,FAC-12,Consultant,15,Yes,No
+DOC-0177,Dr. Fernanda Barros,Female,Emergency Medicine,FAC-12,Resident,5,No,Yes
+DOC-0178,Dr. Felipe Cardoso,Male,Dermatology,FAC-12,Resident,4,No,No
+DOC-0179,Dr. Fernanda Barros,Female,Ophthalmology,FAC-12,Resident,4,No,Yes
+DOC-0180,Dr. Felipe Cardoso,Male,Otolaryngology (ENT),FAC-12,Resident,3,No,Yes
+DOC-0181,Dr. Carolina Moreira,Female,Neurology,FAC-12,Consultant,30,Yes,Yes
+DOC-0182,Dr. Bruno Almeida,Male,Oncology,FAC-12,Specialist,9,Yes,No
+DOC-0183,Dr. Gustavo Pinto,Male,Radiology,FAC-12,Resident,2,No,Yes
+DOC-0184,Dr. Felipe Cardoso,Male,Psychiatry,FAC-12,Resident,3,No,Yes
+DOC-0185,Dr. Carolina Moreira,Female,Cardiology,FAC-12,Specialist,7,Yes,Yes
+DOC-0186,Dr. Mateus Barros,Male,Orthopedics,FAC-12,Resident,3,No,Yes
+DOC-0187,Dr. Renata Pinto,Female,Pediatrics,FAC-12,Consultant,20,Yes,No
+DOC-0188,Dr. Mateus Barros,Male,Obstetrics & Gynecology,FAC-12,Consultant,21,Yes,Yes
+DOC-0189,Dr. Bruno Almeida,Male,General Surgery,FAC-12,Specialist,11,Yes,Yes
+DOC-0190,Dr. Felipe Cardoso,Male,Internal Medicine,FAC-12,Resident,3,No,Yes
+DOC-0191,Dr. Hala Sabri,Female,Orthopedics,FAC-13,Consultant,18,Yes,Yes
+DOC-0192,Dr. Rami Khoury,Male,Obstetrics & Gynecology,FAC-13,Specialist,13,Yes,Yes
+DOC-0193,Dr. Hala Sabri,Female,General Surgery,FAC-13,Specialist,15,Yes,No
+DOC-0194,Dr. Layla Haddad,Female,Dermatology,FAC-13,Consultant,23,Yes,Yes
+DOC-0195,Dr. Yara Nasser,Female,Ophthalmology,FAC-13,Consultant,14,Yes,Yes
+DOC-0196,Dr. Rania Khoury,Female,Otolaryngology (ENT),FAC-13,Specialist,14,Yes,Yes
+DOC-0197,Dr. Yara Nasser,Female,Orthopedics,FAC-14,Specialist,8,Yes,Yes
+DOC-0198,Dr. Dana Mansour,Female,Obstetrics & Gynecology,FAC-14,Specialist,16,Yes,Yes
+DOC-0199,Dr. Hala Sabri,Female,General Surgery,FAC-14,Consultant,25,Yes,Yes
+DOC-0200,Dr. Rami Khoury,Male,Dermatology,FAC-14,Specialist,8,Yes,Yes
+DOC-0201,Dr. Salma Fares,Female,Ophthalmology,FAC-14,Resident,2,No,Yes
+DOC-0202,Dr. Yara Nasser,Female,Otolaryngology (ENT),FAC-14,Specialist,16,Yes,Yes

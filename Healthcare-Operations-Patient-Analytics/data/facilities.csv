@@ -1,0 +1,15 @@
+﻿facility_id,facility_name,facility_type,country,city,region,beds_total,opened_year,accreditation,operates_emergency_dept,provides_inpatient_care
+FAC-01,Meridian Medical City,Tertiary Hospital,United Arab Emirates,Dubai,Middle East,620,2009,JCI,Yes,Yes
+FAC-02,Gulf Central Hospital,General Hospital,Qatar,Doha,Middle East,340,2013,JCI,Yes,Yes
+FAC-03,Northgate General Hospital,Tertiary Hospital,United Kingdom,London,Europe,710,1996,ISO 9001,Yes,Yes
+FAC-04,Rheinpark Klinikum,General Hospital,Germany,Berlin,Europe,430,2003,ISO 9001,Yes,Yes
+FAC-05,Harbourfront Specialist Centre,Specialty Clinic,Singapore,Singapore,Asia-Pacific,90,2016,JCI,No,No
+FAC-06,Sunrise Multispecialty Hospital,Tertiary Hospital,India,Mumbai,Asia-Pacific,850,1998,NABH,Yes,Yes
+FAC-07,Bandar Health Centre,General Hospital,Malaysia,Kuala Lumpur,Asia-Pacific,280,2011,None,Yes,Yes
+FAC-08,Lakeside Regional Hospital,General Hospital,Canada,Toronto,North America,400,1989,Accreditation Canada,Yes,Yes
+FAC-09,Bayou Medical Center,Tertiary Hospital,United States,Houston,North America,760,1984,JCI,Yes,Yes
+FAC-10,Nile Valley Hospital,General Hospital,Egypt,Cairo,Africa,510,2007,ISO 9001,Yes,Yes
+FAC-11,Savanna Care Hospital,General Hospital,Kenya,Nairobi,Africa,230,2015,None,Yes,Yes
+FAC-12,Vale Verde Hospital,Tertiary Hospital,Brazil,Sao Paulo,Latin America,580,2001,ISO 9001,Yes,Yes
+FAC-13,Al Salam Day Surgery,Day Surgery Center,Kuwait,Kuwait City,Middle East,60,2018,None,No,No
+FAC-14,Crescent Specialist Clinic,Specialty Clinic,Saudi Arabia,Riyadh,Middle East,110,2019,CBAHI,No,No
